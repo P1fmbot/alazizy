@@ -40,12 +40,12 @@ async def cbstart(_, query: CallbackQuery):
                         "• جروب الدعم •", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐬𝐨𝐮𝐫𝐜𝐞 𝐚𝐥𝐚𝐳𝐢𝐳a²¹🐼", url=f"https://t.me/BANDA1M"
+                        "𝐬𝐨𝐮𝐫𝐜𝐞 𝐚𝐥𝐚𝐳𝐢𝐳a²¹🐼", url=f"https://t.me/Mister_hmod"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "دبـدو໑بـٰههہ⁽💕🐾₎⇡", url="https://t.me/BANDA2M"
+                        "دبـدو໑بـٰههہ⁽💕🐾₎⇡", url="https://t.me/Mister_hmod"
                     )
                 ],
             ]
@@ -153,7 +153,7 @@ async def cbsudo(_, query: CallbackQuery):
 » /restart - restart your bot
 » /leaveall - order userbot to leave from all group
 
- ⚡ ادارة سورس العزايزي @php_7
+ ⚡ ادارة سورس اركون @D0300
 """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 Go Back", callback_data="cbcmds")]]
